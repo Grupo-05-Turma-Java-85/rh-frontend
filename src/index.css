@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    --color-blueletra-rh: #0b5ed6;
+    --color-bgblue-rh: #0152f4;
+    --color-navblue: #0028b3;
+}
+.header {
+  height: 126px;
+  display: flex;
+  align-items: center;
+  padding: 0 32px;
+}
+ 
+.logo {
+  width: 100px;
+  height: auto;
+  object-fit: contain;
+}
