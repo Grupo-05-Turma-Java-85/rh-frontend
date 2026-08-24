@@ -1,7 +1,7 @@
 # 💼 RH FitHub — Frontend
 
 <p align="center">
-  <img src="https://ik.imagekit.io/bellaceccon/fithub_rh_recruiter_clean_.pn" alt="RH FitHub">
+  <img src="https://ik.imagekit.io/bellaceccon/fithub_rh_recruiter_clean_.pn">
 </p>
 
 <p align="center">
