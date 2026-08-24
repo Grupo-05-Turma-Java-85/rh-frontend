@@ -174,17 +174,6 @@ rh-frontend/
 └── README.md
 ```
 
----
-
-## 📊 Diagramas
-
-### Diagrama de Classes
-
-> Adicione aqui a imagem do Diagrama de Classes do projeto.
-
-### Diagrama Entidade-Relacionamento (DER)
-
-> Adicione aqui a imagem do DER do projeto.
 
 ---
 
