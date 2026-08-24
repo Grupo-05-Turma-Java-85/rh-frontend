@@ -1,10 +1,6 @@
 # 💼 RH FitHub — Frontend
 
 <p align="center">
-  <img src="./public/img/banner-rh-fithub.png" alt="RH FitHub" width="800">
-</p>
-
-<p align="center">
   <strong>Sistema de gerenciamento de Recursos Humanos para empresas do segmento fitness.</strong>
 </p>
 
