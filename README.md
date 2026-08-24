@@ -1,7 +1,7 @@
 # 💼 RH FitHub — Frontend
 
 <p align="center">
-  <img src="https://ik.imagekit.io/bellaceccon/fithub_rh_recruiter_clean_.pn">
+  <img src="./public/img/banner-rh-fithub.png" alt="RH FitHub" width="800">
 </p>
 
 <p align="center">
@@ -209,6 +209,6 @@ Este projeto foi desenvolvido para fins acadêmicos.
 ---
 
 <p align="center">
-  💗 <strong>RH FitHub</strong> — Tecnologia para cuidar de pessoas.
+   <strong>RH FitHub</strong> — Tecnologia para cuidar de pessoas.
 </p>
 
